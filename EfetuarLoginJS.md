@@ -6,8 +6,8 @@ JS
 <meta charset="UTF-8">
 <script>
 
-    var loginCadastrado = "alura";
-    var senhaCadastrada = "alura321";
+    var loginCadastrado = "felipe";
+    var senhaCadastrada = "github2021";
 
     var loginInformado = prompt("Informe seu login");
     var senhaInformada = prompt("Informe sua senha");
