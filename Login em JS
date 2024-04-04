@@ -3,11 +3,11 @@
 
 JS
 
-<meta charset="UTF-8">
+
 <script>
 
-    var loginCadastrado = "felipe";
-    var senhaCadastrada = "github2021";
+    var loginCadastrado = "kaua";
+    var senhaCadastrada = "teste123";
 
     var loginInformado = prompt("Informe seu login");
     var senhaInformada = prompt("Informe sua senha");
